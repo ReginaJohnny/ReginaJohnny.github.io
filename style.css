@@ -5,6 +5,9 @@
 
 body {
     background-image: url("images/calculatorbackground.webp");
+    background-position: center top;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table, th, td {
